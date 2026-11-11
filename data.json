@@ -1,0 +1,51 @@
+[
+  {
+    "media": "Grey's Anatomy",
+    "sORm": "S",
+    "genre": "drama",
+    "mood": "anxious",
+    "company": "with-friends"
+  },
+  {
+    "media": "Dancing with the Stars",
+    "sORm": "S",
+    "genre": "reality",
+    "mood": "nostalgic",
+    "company": "with-friends"
+  },
+  {
+    "media": "Spongebob",
+    "sORm": "S",
+    "genre": "cartoon",
+    "mood": "silly",
+    "company": "alone"
+  },
+  {
+    "media": "Twilight",
+    "sORm": "M",
+    "genre": "fantasy",
+    "mood": "happy",
+    "company": "with-friends"
+  },
+  {
+    "media": "Blue Planet II",
+    "sORm": "S",
+    "genre": "documentary",
+    "mood": "sleepy",
+    "company": "alone"
+  },
+  {
+    "media": "Derry Girls",
+    "sORm": "S",
+    "genre": "sitcom",
+    "mood": "happy",
+    "company": "with-friends"
+  }, 
+  {
+    "media": "Paddington",
+    "sORm": "M",
+    "genre": "fantasy",
+    "mood": "nostalgic",
+    "company": "with-friends"
+  }
+]
